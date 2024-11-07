@@ -1,27 +1,43 @@
-# AngularBlog
+# TechBlog
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.6.
+Este projeto é um **blog de tecnologia** desenvolvido com o objetivo de estudar **front-end**, **componentização** e **dinamicidade de páginas web**. O blog foi criado utilizando **Angular 18.2.6** e **TypeScript** e permite a exibição de conteúdo dinâmico de maneira organizada e moderna.
 
-## Development server
+## Tecnologias Utilizadas
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- **Angular 18.2.6**: framework front-end para a criação de interfaces dinâmicas e reativas.
+- **TypeScript**: linguagem que adiciona tipagem ao JavaScript, aumentando a produtividade e segurança do código.
+- **HTML5 e CSS3**: para estrutura e estilização básica.
 
-## Code scaffolding
+## Funcionalidades
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **Componentização**: o projeto é dividido em componentes reutilizáveis para facilitar o desenvolvimento e a manutenção.
+- **Conteúdo Dinâmico**: permite exibir conteúdos de tecnologia de forma dinâmica, simulando um blog real.
+- **Roteamento**: navegação entre páginas internas (news, notícias, etc.).
+- **Responsividade**: o layout se adapta a diferentes tamanhos de tela.
 
-## Build
+## Objetivos de Aprendizado
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Este projeto foi desenvolvido como um exercício de estudo com foco em:
 
-## Running unit tests
+1. **Desenvolvimento Front-End com Angular**: entender a estrutura e as práticas recomendadas do framework.
+2. **Componentização**: aprender a criar e organizar componentes para maximizar a reutilização e modularidade.
+3. **Dinamicidade de Webpages**: explorar como manipular e exibir dados dinamicamente.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Como Executar o Projeto
 
-## Running end-to-end tests
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/Airesp4/blog-de-tecnologia.git
+   cd blog-de-tecnologia
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+2. Instale as dependências:
+   ```bash
+   npm install
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+3. Execute o projeto:
+   ```bash
+   ng serve
+   
+4. Abra no navegador:
+   ```bash
+   http://localhost:4200
