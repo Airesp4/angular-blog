@@ -27,7 +27,7 @@ Este projeto foi desenvolvido como um exercício de estudo com foco em:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Airesp4/blog-de-tecnologia.git
+   git clone https://github.com/Airesp4/angular-blog.git
    cd blog-de-tecnologia
 
 2. Instale as dependências:
